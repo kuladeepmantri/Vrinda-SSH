@@ -13,7 +13,7 @@ I am excited to continue developing and improving Vrinda-SSH, and hope that it w
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/vrinda-ssh.git
+https://github.com/kuladeepmantri/Vrinda-SSH.git
 ```
 
 2. Change the directory:
@@ -30,7 +30,7 @@ The script will automatically install the required packages when it runs for the
 To run the script, simply execute the following command:
 
 ```bash
-python3 vrinda-ssh.py
+python3 vrindassh.py
 ```
 
 The script will prompt you to provide the following information:
