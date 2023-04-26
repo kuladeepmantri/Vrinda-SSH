@@ -14,3 +14,49 @@ I am excited to continue developing and improving Vrinda-SSH, and hope that it w
 
 ```bash
 git clone https://github.com/username/vrinda-ssh.git
+```
+
+2. Change the directory:
+
+```bash
+cd vrinda-ssh
+```
+
+3. Install the required packages:
+The script will automatically install the required packages when it runs for the first time.
+
+## Usage
+
+To run the script, simply execute the following command:
+
+```bash
+python3 vrinda-ssh.py
+```
+
+The script will prompt you to provide the following information:
+
+- Path to the users list
+- Path to the password list
+- Target IP address
+- Target port (usually 22 for SSH)
+
+Once you have provided this information, the brute-force attack will begin.
+
+## Disclaimer
+
+This tool is for educational purposes only. The author is not responsible for any misuse or damage caused by this script. Always seek permission before testing on any target.
+
+## Contributing
+
+We welcome contributions to the project. To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a branch with a descriptive name.
+3. Make your changes and commit them to your branch.
+4. Create a pull request, detailing the changes you made and the reasons behind them.
+
+For major changes or new features, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
