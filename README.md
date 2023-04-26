@@ -13,7 +13,7 @@ I am excited to continue developing and improving Vrinda-SSH, and hope that it w
 1. Clone the repository:
 
 ```bash
-https://github.com/kuladeepmantri/Vrinda-SSH.git
+git clone https://github.com/kuladeepmantri/Vrinda-SSH.git
 ```
 
 2. Change the directory:
